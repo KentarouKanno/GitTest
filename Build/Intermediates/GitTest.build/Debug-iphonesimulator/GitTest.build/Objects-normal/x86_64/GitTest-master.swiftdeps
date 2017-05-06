@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "6340a029460717fbf7dc83ab479dce85"
+build_time: [547371204, 330058000]
+inputs:
+  "/Users/KentarOu/Desktop/GitTest/GitTest/ViewController.swift": [547367818, 0]
+  "/Users/KentarOu/Desktop/GitTest/GitTest/AppDelegate.swift": [547367818, 0]
